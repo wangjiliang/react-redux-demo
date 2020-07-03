@@ -1,4 +1,5 @@
 DEMO中演示redux以及redux-devtools的使用步骤
+安装 npm install --save redux-thunk redux-devtools-extension
 
 ## Available Scripts
 
